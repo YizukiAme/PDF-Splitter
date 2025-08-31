@@ -1,6 +1,7 @@
 # PDF Splitter
 A modern, cross-platform GUI tool to split PDF files with support for smart ranges, cut points, and custom naming templates. Built with Python and PySide6.
 I developed this shit after realizing that almost every piece of software out there actually charges money for something as dumb as splitting a PDF.
+<img width="2560" height="1519" alt="image" src="https://github.com/user-attachments/assets/7065a380-911a-4b6d-a28b-6642266c02be" />
 
 ## Features
 -   **Multiple Splitting Modes**:
