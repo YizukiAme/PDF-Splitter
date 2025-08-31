@@ -23,8 +23,8 @@ The easiest way to use this application is to download the pre-compiled executab
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YizukiAme/PDF-Splitter.git](https://github.com/YizukiAme/PDF-Splitter.git)
-    cd pdf-splitter-pro
+    git clone https://github.com/YizukiAme/PDF-Splitter.git
+    cd PDF-Splitter
     ```
 2.  Create and activate a virtual environment:
     ```bash
