@@ -1,4 +1,4 @@
-# PDF Splitter Pro
+# PDF Splitter
 A modern, cross-platform GUI tool to split PDF files with support for smart ranges, cut points, and custom naming templates. Built with Python and PySide6.
 I developed this shit after realizing that almost every piece of software out there actually charges money for something as dumb as splitting a PDF.
 
@@ -14,7 +14,7 @@ I developed this shit after realizing that almost every piece of software out th
 ## How to Use
 
 The easiest way to use this application is to download the pre-compiled executable.
-1.  Go to the [**Releases**](https://github.com/YizukiAme/pdf-splitter-pro/releases) page.
+1.  Go to the [**Releases**](https://github.com/YizukiAme/PDF-Splitter/releases) page.
 2.  Under the latest release, find the "Assets" section.
 3.  Download the `.exe` file.
 4.  Run the file. No installation is needed.
@@ -23,7 +23,7 @@ The easiest way to use this application is to download the pre-compiled executab
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YizukiAme/pdf-splitter-pro.git](https://github.com/YizukiAme/pdf-splitter-pro.git)
+    git clone [https://github.com/YizukiAme/PDF-Splitter.git](https://github.com/YizukiAme/PDF-Splitter.git)
     cd pdf-splitter-pro
     ```
 2.  Create and activate a virtual environment:
